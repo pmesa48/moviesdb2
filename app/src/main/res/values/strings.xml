@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieDatabase</string>
+    <string name="discover_fragment_title">Discover Movies</string>
+</resources>
